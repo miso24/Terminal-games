@@ -4,7 +4,7 @@ Cursesで作ったゲームです
 
 ## snake
 
-![snake-game](https://github.com/miso24/Terminal-games/blob/images/pong.png?raw=true)
+![snake-game](https://github.com/miso24/Terminal-games/blob/images/snake.png?raw=true)
 
 シンプルなスネークゲーム
 
@@ -12,7 +12,7 @@ Cursesで作ったゲームです
 
 ## pong
 
-![pong-game](https://github.com/miso24/Terminal-games/blob/images/snake.png)
+![pong-game](https://github.com/miso24/Terminal-games/blob/images/pong.png)
 
 PONG
 
