@@ -4,11 +4,15 @@ Cursesで作ったゲームです
 
 ## snake
 
+![snake-game](https://github.com/miso24/Terminal-games/blob/images/pong.png?raw=true)
+
 シンプルなスネークゲーム
 
 十字キーで蛇(@)を動かして餌(x)をとるゲーム
 
 ## pong
+
+![pong-game](https://github.com/miso24/Terminal-games/blob/images/snake.png)
 
 PONG
 
